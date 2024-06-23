@@ -2,7 +2,7 @@
 <h3 align="center">I am an enthusiastic Junior Frontend Developer with a passion for creativity and a steadfast commitment to inspired web development. Proficient in HTML, CSS, JavaScript, React, and Node.js, I possess a well-rounded skill set to create engaging and dynamic user interfaces. I am driven by the desire to contribute fresh ideas and collaborate effectively within dynamic teams.</h3>
 
 <h3>📄 Know about my experiences:</h3> 
-https://drive.google.com/file/d/1R9GjhZExaSatlREHA_hSfjj6Ru2c5zmh/view?usp=sharing
+https://drive.google.com/file/d/1yq0EFDnHves2ZCBZSx5aWpPHBQml6_au/view?usp=sharing
 
 <h3 align="left">📧 Connect with me:</h3>
 <p align="left">
